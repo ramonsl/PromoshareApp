@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1013501287385",
+    "firebase_url": "https://promoshareapp-a9522.firebaseio.com",
+    "project_id": "promoshareapp-a9522",
+    "storage_bucket": "promoshareapp-a9522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013501287385:android:ef28fab52dcc1587",
+        "android_client_info": {
+          "package_name": "com.example.gusta.promoshareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013501287385-ql4uptia040j7f22a5d5a4tm3gksmthp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gusta.promoshareapp",
+            "certificate_hash": "57a6c88aaebe7a5df4d47e11b6b3e21bdf03df39"
+          }
+        },
+        {
+          "client_id": "1013501287385-fjec9s1plarmt66m4ds43k26n2t95vk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmBSfVgKI08D0jGNe8z9-207oFFSDIbdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013501287385-fjec9s1plarmt66m4ds43k26n2t95vk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
